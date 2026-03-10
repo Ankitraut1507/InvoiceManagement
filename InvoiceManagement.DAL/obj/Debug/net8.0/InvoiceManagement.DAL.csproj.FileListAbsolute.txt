@@ -1,0 +1,15 @@
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\bin\Debug\net8.0\InvoiceManagement.DAL.deps.json
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\bin\Debug\net8.0\InvoiceManagement.DAL.runtimeconfig.json
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\bin\Debug\net8.0\InvoiceManagement.DAL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\bin\Debug\net8.0\InvoiceManagement.DAL.pdb
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.csproj.AssemblyReference.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.AssemblyInfoInputs.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.AssemblyInfo.cs
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.csproj.CoreCompileInputs.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.sourcelink.json
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\refint\InvoiceManagement.DAL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.pdb
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\InvoiceManagement.DAL.genruntimeconfig.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.DAL\obj\Debug\net8.0\ref\InvoiceManagement.DAL.dll

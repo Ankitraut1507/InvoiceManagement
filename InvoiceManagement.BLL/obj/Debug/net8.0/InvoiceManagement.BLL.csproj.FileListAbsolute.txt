@@ -1,0 +1,16 @@
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\bin\Debug\net8.0\InvoiceManagement.BLL.deps.json
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\bin\Debug\net8.0\InvoiceManagement.BLL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\bin\Debug\net8.0\InvoiceManagement.BLL.pdb
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\bin\Debug\net8.0\InvoiceManagement.DAL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\bin\Debug\net8.0\InvoiceManagement.DAL.pdb
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.csproj.AssemblyReference.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.AssemblyInfoInputs.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.AssemblyInfo.cs
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.csproj.CoreCompileInputs.cache
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.sourcelink.json
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceM.4A9F3BD3.Up2Date
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\refint\InvoiceManagement.BLL.dll
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\InvoiceManagement.BLL.pdb
+D:\REVATURE\Revature_Assignment\InvoiceManagement\InvoiceManagement.BLL\obj\Debug\net8.0\ref\InvoiceManagement.BLL.dll
