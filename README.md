@@ -195,6 +195,11 @@ npm install && npm start
 
 ## 📄 License
 
-This project is developed for learning and evaluation purposes.
+## Contributors
+- Ankit Raut
+- Sahil Rane
+- Ayush Kadam
+- Darshan Badgujar
 
+This project is developed for learning and evaluation purposes.
 ---
