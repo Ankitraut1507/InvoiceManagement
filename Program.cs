@@ -94,7 +94,6 @@ while (true)
             }
             break;
 
-
         case "3":
             Console.Write("Enter Customer ID to update: ");
 
