@@ -180,6 +180,7 @@ npm install && npm start
 * **Ankit Raut**
 * **Darshan Badgujar**
 * **Aayush Kadam**
+* **Sahil Rane**
 
 ---
 
@@ -194,12 +195,6 @@ npm install && npm start
 ---
 
 ## 📄 License
-
-## Contributors
-- Ankit Raut
-- Sahil Rane
-- Ayush Kadam
-- Darshan Badgujar
 
 This project is developed for learning and evaluation purposes.
 ---
